@@ -1,1 +1,1 @@
-# Proyectos-de-entrenamiento
+# Proyectos en C de entrenamiento
